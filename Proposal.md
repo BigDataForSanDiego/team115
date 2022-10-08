@@ -30,7 +30,7 @@
 
 #### Team Members: 
 Sean: sgtran
-Spencer:
-Sumay:
-Jason:
+| Spencer:
+| Sumay:
+| Jason:
 
