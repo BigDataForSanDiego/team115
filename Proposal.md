@@ -1,11 +1,11 @@
 ### 2022 BIG DATA HACKATHON PROPOSAL FORM
 
-#### Team Number: `YOUR TEAM NUMBER HERE`  
+#### Team Number: 115 
 
-#### Team Name: `YOUR TEAM NAME HERE`    
+#### Team Name: LAREJECTS    
   
 #### Your team’s hackathon idea in One sentence:
-##### `YOUR ONE SENTENCE HERE`
+##### Create a website to help navigate pro-enviromental groups to areas where their inhabitants physically suffer the most from climate change and pollution.
 
 
 #### A visual
