@@ -28,5 +28,9 @@
 
 #### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
 
-#### Team Members `YOUR TEAM MEMBERS NAME & GITHUB USERNAME HERE`
+#### Team Members: 
+Sean: sgtran
+Spencer:
+Sumay:
+Jason:
 
