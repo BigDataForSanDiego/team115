@@ -23,10 +23,12 @@
 > How can we leverage AI/ML Algorithms to help support diagnostics, clinical decisions, and forecast staffing and hospital capacity?
 - [☑️] Mobile
 > Designing Mobile Apps to improve user experience before, during, and after a healthcare visit.
+> We plan to intergrate our application into the mobile format to make it more accessible and provide an easier transition from our infographics to social media
 - [X] Patient experience
 > How do you incorporate the patient perspective through the intersection of patient, provider, and community data into care plans.
 - [☑️] Health Disparities
 > What is the role of big data and analytics in addressing health disparities among vulnerable and minority populations in San Diego County.
+> Our correlation/heat map will combine variables over multiple data sets to highlight how mediam household income can affect the health outcomes of San Diego residents. This will allow pollution clean-up efforts to direct their attentiom towards the highest-risk areas.
 - [X] Privacy and Security
 > How can we increase data privacy and enhance cybersecurity measures in the release, exchange and use of healthcare data, both locally and nationally.
 
